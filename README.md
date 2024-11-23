@@ -1,5 +1,5 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_FINANCE_DATA
-Description: completed this project as a part of my BI with powerBI internship with the United Network of professional (UNP) <br/>
+Description: I completed this project as a part of my BI with powerBI internship with the United Network of professional (UNP) <br/>
 
 Key Highlights:  <br/>
 1. Power BI is a powerful financial data analysis tool that allows visualising and interpreting key metrics such as sales, profits, costs, and discounts.  <br/>
